@@ -90,3 +90,11 @@ app.get('/webhook', (req, res) => {
     }
   }
 });
+
+// Adds support for GET requests to our webhook
+app.get('/test', (req, res) => {
+  // Your verify token. Should be a random string.
+  
+      console.log('test');
+      res.status(200).send("TEST");
+});
