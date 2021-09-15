@@ -3,7 +3,7 @@ function aplicacionesWeb(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"ejercicios-aplicaciones-web.com",
+			"url":"https://drive.google.com/file/d/1y4tYULPMP6f4dCZKy7fBnpXNMn5gwwFu/view?usp=sharing",
 			"title":"Ejercicios"
 		});
 	}
@@ -37,7 +37,7 @@ function programacionWeb(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"ejercicios-programacion-web.com",
+			"url":"https://drive.google.com/file/d/1MRgIJmLsUlNZfvJX0hSbpR_GkrIz9YVz/view?usp=sharing",
 			"title":"Ejercicios"
 		});
 	}
@@ -71,7 +71,7 @@ function pasoParametros(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"ejercicios-paso-parametros.com",
+			"url":"https://drive.google.com/file/d/1sc3-MGviQWf4SJ5FQQBNE6QeoGtr5Tpa/view?usp=sharing",
 			"title":"Ejercicios"
 		});
 	}
@@ -105,7 +105,7 @@ function patronProgramacion(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"ejercicios-patron-programacion.com",
+			"url":"https://drive.google.com/file/d/1o6MysHBaHjWVDvl9LbyIAYCaOsdSu_7f/view?usp=sharing",
 			"title":"Ejercicios"
 		});
 	}
@@ -139,7 +139,7 @@ function accesoDatos(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"ejercicios-acceso-datos.com",
+			"url":"https://drive.google.com/file/d/1IrvfZQ3Q4_RXwYi3i4FbUDkv1lSOU8Np/view?usp=sharing",
 			"title":"Ejercicios"
 		});
 	}
@@ -173,7 +173,7 @@ function sesiones(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"ejercicios-sesiones.com",
+			"url":"https://drive.google.com/file/d/1LRwWdODGkHTyvZe_aP83ochlukD2Ix7M/view?usp=sharing",
 			"title":"Ejercicios"
 		});
 	}
@@ -207,7 +207,7 @@ function crud(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"ejercicios-crud.com",
+			"url":"https://drive.google.com/file/d/17-UYFVNWrukWsXWeddmnKPPHXmLJQUTw/view?usp=sharing",
 			"title":"Ejercicios"
 		});
 	}
@@ -241,7 +241,7 @@ function reportes(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"ejercicios-reportes.com",
+			"url":"https://drive.google.com/file/d/1_1NTEwO0dBBrvM9EH8ae-y2NF_7TTaeY/view?usp=sharing",
 			"title":"Ejercicios"
 		});
 	}
