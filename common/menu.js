@@ -222,7 +222,7 @@ function crud(type){
 		buttons.push({
 			"type":"postback",
 			"title":"Consulta",
-			"payload":"Crud"
+			"payload":"Implementación del patrón CRUD"
 		});
 	}
 
