@@ -24,7 +24,7 @@ function aplicacionesWeb(type){
 
 	const tema = {
 		"title":"Conocimiento de aplicaciones web",
-		"image_url":"https://drive.google.com/file/d/12P_6Px4tBeK_M9Xk9YN63F_tQSq_BM0r/view?usp=sharing",
+		"image_url":"https://drive.google.com/uc?export=view&id=12P_6Px4tBeK_M9Xk9YN63F_tQSq_BM0r",
 		"subtitle":"Este es el tema de Conocimientos de aplicaciones web",
 		"buttons":buttons
 	};
