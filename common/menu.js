@@ -3,14 +3,14 @@ function aplicacionesWeb(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/file/d/1y4tYULPMP6f4dCZKy7fBnpXNMn5gwwFu/view?usp=sharing",
+			"url":"https://drive.google.com/uc?export=view&id=1y4tYULPMP6f4dCZKy7fBnpXNMn5gwwFu",
 			"title":"Ejercicios"
 		});
 	}
 	if(type == "Material" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/file/d/1FzLuDbrgAukwpsxagiWJRggh_XYxkyxx/view?usp=sharing",
+			"url":"https://drive.google.com/uc?export=view&id=1FzLuDbrgAukwpsxagiWJRggh_XYxkyxx",
 			"title":"Material para revisión",
 		});
 	}
@@ -37,14 +37,14 @@ function programacionWeb(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/file/d/1MRgIJmLsUlNZfvJX0hSbpR_GkrIz9YVz/view?usp=sharing",
+			"url":"https://drive.google.com/uc?export=view&id=1MRgIJmLsUlNZfvJX0hSbpR_GkrIz9YVz",
 			"title":"Ejercicios"
 		});
 	}
 	if(type == "Material" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/file/d/1EVw4xZznDPJCM5olMZyLieeehFTMrsic/view?usp=sharing",
+			"url":"https://drive.google.com/uc?export=view&id=1EVw4xZznDPJCM5olMZyLieeehFTMrsic",
 			"title":"Material para revisión",
 		});
 	}
@@ -58,7 +58,7 @@ function programacionWeb(type){
 
 	const tema = {
 		"title":"Introducción al lenguaje de programación web",
-		"image_url":"https://blog.ida.cl/wp-content/uploads/sites/5/2019/01/algoritmos-redes-sociales.png",
+		"image_url":"https://drive.google.com/uc?export=view&id=1yyjV1Mx6dbGf7ni3Va2mWKpJDiPHkdI",
 		"subtitle":"Este es el tema de Introducción al lenguaje de programación web",
 		"buttons":buttons
 	};
@@ -71,14 +71,14 @@ function pasoParametros(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/file/d/1sc3-MGviQWf4SJ5FQQBNE6QeoGtr5Tpa/view?usp=sharing",
+			"url":"https://drive.google.com/uc?export=view&id=1sc3-MGviQWf4SJ5FQQBNE6QeoGtr5Tpa",
 			"title":"Ejercicios"
 		});
 	}
 	if(type == "Material" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/file/d/1JVY0p7kBBkEiJiwLa-XMPW8xQFf7GIJS/view?usp=sharing",
+			"url":"https://drive.google.com/uc?export=view&id=1JVY0p7kBBkEiJiwLa-XMPW8xQFf7GIJS",
 			"title":"Material para revisión",
 		});
 	}
@@ -92,7 +92,7 @@ function pasoParametros(type){
 
 	const tema = {
 		"title":"Paso de parámetros entre páginas web",
-		"image_url":"https://blog.ida.cl/wp-content/uploads/sites/5/2019/01/algoritmos-redes-sociales.png",
+		"image_url":"https://drive.google.com/uc?export=view&id=1Qk6O8y3k-SI2gqG-ORO0_irwAtoh9CwY",
 		"subtitle":"Este es el tema de Paso de parámetros entre páginas web",
 		"buttons":buttons
 	};
@@ -105,14 +105,14 @@ function patronProgramacion(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/file/d/1o6MysHBaHjWVDvl9LbyIAYCaOsdSu_7f/view?usp=sharing",
+			"url":"https://drive.google.com/uc?export=view&id=1o6MysHBaHjWVDvl9LbyIAYCaOsdSu_7f",
 			"title":"Ejercicios"
 		});
 	}
 	if(type == "Material" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/file/d/1fanKBOW-EN7gilLUrU3RXs7sfEq8qClR/view?usp=sharing",
+			"url":"https://drive.google.com/uc?export=view&id=1fanKBOW-EN7gilLUrU3RXs7sfEq8qClR",
 			"title":"Material para revisión",
 		});
 	}
@@ -126,7 +126,7 @@ function patronProgramacion(type){
 
 	const tema = {
 		"title":"Patrón de programación",
-		"image_url":"https://blog.ida.cl/wp-content/uploads/sites/5/2019/01/algoritmos-redes-sociales.png",
+		"image_url":"https://drive.google.com/uc?export=view&id=1kJFvh024cgCo4CbJ-rIiTBSCyhwclGle",
 		"subtitle":"Este es el tema de Patrón de programación",
 		"buttons":buttons
 	};
@@ -139,14 +139,14 @@ function accesoDatos(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/file/d/1IrvfZQ3Q4_RXwYi3i4FbUDkv1lSOU8Np/view?usp=sharing",
+			"url":"https://drive.google.com/uc?export=view&id=1IrvfZQ3Q4_RXwYi3i4FbUDkv1lSOU8Np",
 			"title":"Ejercicios"
 		});
 	}
 	if(type == "Material" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/file/d/1o0W0dQaK48fIQcWWvK9271H_Hb3mPavi/view?usp=sharing",
+			"url":"https://drive.google.com/uc?export=view&id=1o0W0dQaK48fIQcWWvK9271H_Hb3mPavi",
 			"title":"Material para revisión",
 		});
 	}
@@ -160,7 +160,7 @@ function accesoDatos(type){
 
 	const tema = {
 		"title":"Acceso a base de datos",
-		"image_url":"https://blog.ida.cl/wp-content/uploads/sites/5/2019/01/algoritmos-redes-sociales.png",
+		"image_url":"https://drive.google.com/uc?export=view&id=1Wytv9weg1_jRCttSiLdrpBzNKtpT-_eh",
 		"subtitle":"Este es el tema de Acceso a base de datos",
 		"buttons":buttons
 	};
@@ -173,14 +173,14 @@ function sesiones(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/file/d/1LRwWdODGkHTyvZe_aP83ochlukD2Ix7M/view?usp=sharing",
+			"url":"https://drive.google.com/uc?export=view&id=1LRwWdODGkHTyvZe_aP83ochlukD2Ix7M",
 			"title":"Ejercicios"
 		});
 	}
 	if(type == "Material" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/file/d/1p2xiek4Rpk73PKI8IkYMkyuNb4zpmAez/view?usp=sharing",
+			"url":"https://drive.google.com/uc?export=view&id=1p2xiek4Rpk73PKI8IkYMkyuNb4zpmAez",
 			"title":"Material para revisión",
 		});
 	}
@@ -194,7 +194,7 @@ function sesiones(type){
 
 	const tema = {
 		"title":"Sesiones",
-		"image_url":"https://blog.ida.cl/wp-content/uploads/sites/5/2019/01/algoritmos-redes-sociales.png",
+		"image_url":"https://drive.google.com/uc?export=view&id=156GTSRtM1pZXQ2vnf5n2aO0qzMYNp56H",
 		"subtitle":"Este es el tema de Sesiones",
 		"buttons":buttons
 	};
@@ -207,14 +207,14 @@ function crud(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/file/d/17-UYFVNWrukWsXWeddmnKPPHXmLJQUTw/view?usp=sharing",
+			"url":"https://drive.google.com/uc?export=view&id=17-UYFVNWrukWsXWeddmnKPPHXmLJQUTw",
 			"title":"Ejercicios"
 		});
 	}
 	if(type == "Material" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/file/d/1FgRteu5i6SPjXvcdVt3p1svAzvCyvEFP/view?usp=sharing",
+			"url":"https://drive.google.com/uc?export=view&id=1FgRteu5i6SPjXvcdVt3p1svAzvCyvEFP",
 			"title":"Material para revisión",
 		});
 	}
@@ -228,7 +228,7 @@ function crud(type){
 
 	const tema = {
 		"title":"Implementación del patrón CRUD",
-		"image_url":"https://blog.ida.cl/wp-content/uploads/sites/5/2019/01/algoritmos-redes-sociales.png",
+		"image_url":"https://drive.google.com/uc?export=view&id=1nYdtB6rDLQhyQQQa03puQ3BGxquy8VK1",
 		"subtitle":"Este es el tema de Implementación del patrón CRUD",
 		"buttons":buttons
 	};
@@ -241,14 +241,14 @@ function reportes(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/file/d/1_1NTEwO0dBBrvM9EH8ae-y2NF_7TTaeY/view?usp=sharing",
+			"url":"https://drive.google.com/uc?export=view&id=1_1NTEwO0dBBrvM9EH8ae-y2NF_7TTaeY",
 			"title":"Ejercicios"
 		});
 	}
 	if(type == "Material" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/file/d/1o9man5ENMvo666El4__RKG7s3OWZMfOr/view?usp=sharing",
+			"url":"https://drive.google.com/uc?export=view&id=1o9man5ENMvo666El4__RKG7s3OWZMfOr",
 			"title":"Material para revisión",
 		});
 	}
@@ -262,7 +262,7 @@ function reportes(type){
 
 	const tema = {
 		"title":"Generar reportes tipo listado y con parámetros",
-		"image_url":"https://blog.ida.cl/wp-content/uploads/sites/5/2019/01/algoritmos-redes-sociales.png",
+		"image_url":"https://drive.google.com/uc?export=view&id=14D6wFjVt0oZODpdo2ajz1SqP2Y7ooITS",
 		"subtitle":"Este es el tema de Generar reportes tipo listado y con parámetros",
 		"buttons":buttons
 	};
