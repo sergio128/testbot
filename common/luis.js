@@ -35,10 +35,11 @@ module.exports = class Luis{
             let score = Object.values(req.prediction.intents)[0].score;
             let entities = req.prediction.entities;
             let entity;
-            if(entities.tema == undefined){
+            console.log(entities);
+            if(entities.Tema == undefined){
               entity = null;
             }else{
-              entity = entities.tema[0][0];
+              entity = entities.Tema[0][0];
             }
             resolve([intent,score,entity]);
           });
