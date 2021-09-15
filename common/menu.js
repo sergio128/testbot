@@ -24,7 +24,7 @@ function aplicacionesWeb(type){
 
 	const tema = {
 		"title":"Conocimiento de aplicaciones web",
-		"image_url":"https://blog.ida.cl/wp-content/uploads/sites/5/2019/01/algoritmos-redes-sociales.png",
+		"image_url":"https://drive.google.com/file/d/12P_6Px4tBeK_M9Xk9YN63F_tQSq_BM0r/view?usp=sharing",
 		"subtitle":"Este es el tema de Conocimientos de aplicaciones web",
 		"buttons":buttons
 	};
