@@ -3,14 +3,14 @@ function aplicacionesWeb(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/uc?export=view&id=1y4tYULPMP6f4dCZKy7fBnpXNMn5gwwFu",
+			"url":"https://drive.google.com/file/d/1y4tYULPMP6f4dCZKy7fBnpXNMn5gwwFu/view?usp=sharing",
 			"title":"Ejercicios"
 		});
 	}
 	if(type == "Material" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/uc?export=view&id=1FzLuDbrgAukwpsxagiWJRggh_XYxkyxx",
+			"url":"https://drive.google.com/file/d/1FzLuDbrgAukwpsxagiWJRggh_XYxkyxx/view?usp=sharing",
 			"title":"Material para revisión",
 		});
 	}
@@ -37,14 +37,14 @@ function programacionWeb(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/uc?export=view&id=1MRgIJmLsUlNZfvJX0hSbpR_GkrIz9YVz",
+			"url":"https://drive.google.com/file/d/1MRgIJmLsUlNZfvJX0hSbpR_GkrIz9YVz/view?usp=sharing",
 			"title":"Ejercicios"
 		});
 	}
 	if(type == "Material" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/uc?export=view&id=1EVw4xZznDPJCM5olMZyLieeehFTMrsic",
+			"url":"https://drive.google.com/file/d/1EVw4xZznDPJCM5olMZyLieeehFTMrsic/view?usp=sharing",
 			"title":"Material para revisión",
 		});
 	}
@@ -58,7 +58,7 @@ function programacionWeb(type){
 
 	const tema = {
 		"title":"Introducción al lenguaje de programación web",
-		"image_url":"https://drive.google.com/uc?export=view&id=1yyjV1Mx6dbGf7ni3Va2mWKpJDiPHkdI",
+		"image_url":"https://drive.google.com/uc?export=view&id=1yyjV1Mx6dbGf7ni3Va2mWKpJDiPHkdI-",
 		"subtitle":"Este es el tema de Introducción al lenguaje de programación web",
 		"buttons":buttons
 	};
@@ -71,14 +71,14 @@ function pasoParametros(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/uc?export=view&id=1sc3-MGviQWf4SJ5FQQBNE6QeoGtr5Tpa",
+			"url":"https://drive.google.com/file/d/1sc3-MGviQWf4SJ5FQQBNE6QeoGtr5Tpa/view?usp=sharing",
 			"title":"Ejercicios"
 		});
 	}
 	if(type == "Material" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/uc?export=view&id=1JVY0p7kBBkEiJiwLa-XMPW8xQFf7GIJS",
+			"url":"https://drive.google.com/file/d/1JVY0p7kBBkEiJiwLa-XMPW8xQFf7GIJS/view?usp=sharing",
 			"title":"Material para revisión",
 		});
 	}
@@ -105,14 +105,14 @@ function patronProgramacion(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/uc?export=view&id=1o6MysHBaHjWVDvl9LbyIAYCaOsdSu_7f",
+			"url":"https://drive.google.com/file/d/1o6MysHBaHjWVDvl9LbyIAYCaOsdSu_7f/view?usp=sharing",
 			"title":"Ejercicios"
 		});
 	}
 	if(type == "Material" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/uc?export=view&id=1fanKBOW-EN7gilLUrU3RXs7sfEq8qClR",
+			"url":"https://drive.google.com/file/d/1fanKBOW-EN7gilLUrU3RXs7sfEq8qClR/view?usp=sharing",
 			"title":"Material para revisión",
 		});
 	}
@@ -139,14 +139,14 @@ function accesoDatos(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/uc?export=view&id=1IrvfZQ3Q4_RXwYi3i4FbUDkv1lSOU8Np",
+			"url":"https://drive.google.com/file/d/1IrvfZQ3Q4_RXwYi3i4FbUDkv1lSOU8Np/view?usp=sharing",
 			"title":"Ejercicios"
 		});
 	}
 	if(type == "Material" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/uc?export=view&id=1o0W0dQaK48fIQcWWvK9271H_Hb3mPavi",
+			"url":"https://drive.google.com/file/d/1o0W0dQaK48fIQcWWvK9271H_Hb3mPavi/view?usp=sharing",
 			"title":"Material para revisión",
 		});
 	}
@@ -173,14 +173,14 @@ function sesiones(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/uc?export=view&id=1LRwWdODGkHTyvZe_aP83ochlukD2Ix7M",
+			"url":"https://drive.google.com/file/d/1LRwWdODGkHTyvZe_aP83ochlukD2Ix7M/view?usp=sharing",
 			"title":"Ejercicios"
 		});
 	}
 	if(type == "Material" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/uc?export=view&id=1p2xiek4Rpk73PKI8IkYMkyuNb4zpmAez",
+			"url":"https://drive.google.com/file/d/1p2xiek4Rpk73PKI8IkYMkyuNb4zpmAez/view?usp=sharing",
 			"title":"Material para revisión",
 		});
 	}
@@ -207,14 +207,14 @@ function crud(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/uc?export=view&id=17-UYFVNWrukWsXWeddmnKPPHXmLJQUTw",
+			"url":"https://drive.google.com/file/d/17-UYFVNWrukWsXWeddmnKPPHXmLJQUTw/view?usp=sharing",
 			"title":"Ejercicios"
 		});
 	}
 	if(type == "Material" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/uc?export=view&id=1FgRteu5i6SPjXvcdVt3p1svAzvCyvEFP",
+			"url":"https://drive.google.com/file/d/1FgRteu5i6SPjXvcdVt3p1svAzvCyvEFP/view?usp=sharing",
 			"title":"Material para revisión",
 		});
 	}
@@ -228,7 +228,7 @@ function crud(type){
 
 	const tema = {
 		"title":"Implementación del patrón CRUD",
-		"image_url":"https://drive.google.com/uc?export=view&id=1nYdtB6rDLQhyQQQa03puQ3BGxquy8VK1",
+		"image_url":"https://drive.google.com/uc?export=view&id=https://drive.google.com/file/d/1nYdtB6rDLQhyQQQa03puQ3BGxquy8VK1/view?usp=sharing",
 		"subtitle":"Este es el tema de Implementación del patrón CRUD",
 		"buttons":buttons
 	};
@@ -241,14 +241,14 @@ function reportes(type){
 	if(type == "Ejercicios" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/uc?export=view&id=1_1NTEwO0dBBrvM9EH8ae-y2NF_7TTaeY",
+			"url":"https://drive.google.com/file/d/1_1NTEwO0dBBrvM9EH8ae-y2NF_7TTaeY/view?usp=sharing",
 			"title":"Ejercicios"
 		});
 	}
 	if(type == "Material" || type == null){
 		buttons.push({
 			"type":"web_url",
-			"url":"https://drive.google.com/uc?export=view&id=1o9man5ENMvo666El4__RKG7s3OWZMfOr",
+			"url":"https://drive.google.com/file/d/1o9man5ENMvo666El4__RKG7s3OWZMfOr/view?usp=sharing",
 			"title":"Material para revisión",
 		});
 	}
