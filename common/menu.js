@@ -228,7 +228,7 @@ function crud(type){
 
 	const tema = {
 		"title":"Implementación del patrón CRUD",
-		"image_url":"https://drive.google.com/uc?export=view&id=https://drive.google.com/file/d/1nYdtB6rDLQhyQQQa03puQ3BGxquy8VK1/view?usp=sharing",
+		"image_url":"https://drive.google.com/uc?export=view&id=1nYdtB6rDLQhyQQQa03puQ3BGxquy8VK1",
 		"subtitle":"Este es el tema de Implementación del patrón CRUD",
 		"buttons":buttons
 	};
