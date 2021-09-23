@@ -11,10 +11,10 @@ module.exports = class KB{
         // Send the HTTP request to the Graph API
 
         request({
-          uri: 'https://tallerprogramacionqna.azurewebsites.net/qnamaker/knowledgebases/4f37da75-bfe5-4490-aa7a-78a12fbe5430/generateAnswer',
+          uri: 'https://tallerprogramacionqna.azurewebsites.net/qnamaker/knowledgebases/eebc3182-0a16-4a02-8ec0-a043829f65df/generateAnswer',
           method: "POST",
           headers:{
-            "Authorization":"EndpointKey e09c5897-dcef-4364-a988-3fd64e39c872",
+            "Authorization":"EndpointKey d7de047f-812c-4e29-809b-a508049c9569",
             "Content-Type": "application/json"
           },
           json: {
