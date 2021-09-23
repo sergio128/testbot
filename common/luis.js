@@ -9,7 +9,7 @@ module.exports = class Luis{
 
         // Send the HTTP request to the Graph API
         request({
-          uri: `https://tallerdeprogramacion.cognitiveservices.azure.com/luis/prediction/v3.0/apps/3aafd0a6-1c48-4527-9cc9-3a32aa48dc76/slots/staging/predict?subscription-key=824bde09cbbb478e902fc66d5822fa63&verbose=true&show-all-intents=true&log=true&query=`+text,
+          uri: `https://tallerprogramacionluis.cognitiveservices.azure.com/luis/prediction/v3.0/apps/0fd2f921-9908-4e3e-b2aa-5b6a4597f45a/slots/staging/predict?subscription-key=89649359a80840b7920b56f7e1bbfe57&verbose=true&show-all-intents=true&log=true&query=`+text,
           method: "GET",
           json: ""
         })
